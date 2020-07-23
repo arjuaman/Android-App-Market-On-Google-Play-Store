@@ -8,12 +8,35 @@ user_reviews.csv: contains 100 reviews for each app, most helpful first. The tex
 
 Project Tasks:
 
-1 Google Play Store apps and reviews
-2 Data cleaning
-3 Exploring app categories
-4 Distribution of app ratings
-5 Size and price of an app
-6 Relation between app category and app price
-7 Filter out "junk" apps
-8 Popularity of paid apps vs free apps
-9 Sentiment analysis of user reviews
+1. Google Play Store apps and reviews </br>
+2. Data cleaning </br>
+3. Exploring app categories </br>
+ 
+The bar graph for most popular app categories:
+![alt text](https://github.com/arjuaman/Android-App-Market-On-Google-Play-Store/blob/master/1_%20(1).png)
+
+4. Distribution of app ratings </br>
+
+The histogram for app distribution:
+![alt text](https://github.com/arjuaman/Android-App-Market-On-Google-Play-Store/blob/master/1_%20(2).png)
+
+5. Size and price of an app </br>
+6. Relation between app category and app price </br>
+
+App pricing trend across categories:
+![alt text](https://github.com/arjuaman/Android-App-Market-On-Google-Play-Store/blob/master/1_%20(3).png)
+
+7. Filter out "junk" apps </br>
+
+App pricing trend across categories without junk apps:
+![alt text](https://github.com/arjuaman/Android-App-Market-On-Google-Play-Store/blob/master/1_%20(4).png)
+
+8. Popularity of paid apps vs free apps </br>
+
+Number of downloads of paid apps vs unpaid apps:
+![alt text](https://github.com/arjuaman/Android-App-Market-On-Google-Play-Store/blob/master/1_%20(5).png)
+
+9. Sentiment analysis of user reviews </br>
+
+Sentiment polarity distribution:
+![alt text](https://github.com/arjuaman/Android-App-Market-On-Google-Play-Store/blob/master/1_%20(6).png)
